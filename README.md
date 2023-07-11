@@ -1,7 +1,9 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+- Perform exploratory data analysis (EDA) on FIFA 2018 player data
+- 
+- 
 
 ## Process
 ### (your step 1)
